@@ -103,9 +103,7 @@ public class SplashActivity extends AppCompatActivity {
 }
 ```
 
-### Following this steps the final result should be this:
+### Following this steps the final result should be this: 
 
-
-
-Thanks for reading fell welcome to modify, extend or improve this source.
+![](https://github.com/glaydsoncosta/android-boiler-plate-app/blob/master/project-assets/splash_screen.gif)
 
