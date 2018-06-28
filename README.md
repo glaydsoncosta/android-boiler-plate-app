@@ -1,4 +1,4 @@
-# android-boiler-plate-app
+# Android Splash Screen Boilerplate App
 A simple Android boilerplate app to do splash screens the right way
 
 
